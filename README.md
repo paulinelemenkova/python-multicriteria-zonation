@@ -2,11 +2,6 @@
 
 **Python workflow for multi-criteria landslide susceptibility zonation: AHP weighting, raster reclassification, weighted linear combination and quantile classification, coupled with GRASS GIS, GDAL and GMT.**
 
-**Authors**
-
-- **Polina Lemenkova** — ORCID [0000-0002-5759-1089](https://orcid.org/0000-0002-5759-1089)
-- **Abdullah Can Zülfikar** — ORCID [0000-0001-6610-3334](https://orcid.org/0000-0001-6610-3334)
-
 Istanbul Technical University, Institute of Earthquake Engineering and Disaster Management, Disaster and Emergency Management Department, İTÜ Ayazağa Maslak Kampüsü, 34469 İstanbul, Türkiye.
 
 Archived version: [Zenodo DOI]
