@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "python-multicriteria-zonation: Python workflow for multi-criteria landslide susceptibility zonation (AHP, weighted linear combination, quantile classification)"
+type: software
+authors:
+  - family-names: Lemenkova
+    given-names: Polina
+    orcid: "https://orcid.org/0000-0002-5759-1089"
+    email: lemenkova@itu.edu.tr
+    affiliation: "Istanbul Technical University, Institute of Earthquake Engineering and Disaster Management"
+  - family-names: Zülfikar
+    given-names: Abdullah Can
+    orcid: "https://orcid.org/0000-0001-6610-3334"
+    email: aczulfikar@itu.edu.tr
+    affiliation: "Istanbul Technical University, Institute of Earthquake Engineering and Disaster Management"
+license: MIT
+version: 1.0.0
+date-released: 2026-09-24
+keywords:
+  - landslide susceptibility
+  - Analytic Hierarchy Process
+  - Python
+  - GRASS GIS
+  - GMT
+  - multi-criteria decision analysis
+  - weighted linear combination
+  - raster analysis
+  - reproducible research

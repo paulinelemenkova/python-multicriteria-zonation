@@ -1,0 +1,10 @@
+run/
+*.nc
+*.tif
+*.ps
+*.png
+*.pdf
+__pycache__/
+.DS_Store
+fig9_input/
+fig9_work/

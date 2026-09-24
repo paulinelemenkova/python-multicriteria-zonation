@@ -1,0 +1,13 @@
+name: python-multicriteria-zonation
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - numpy
+  - rasterio
+  - pillow
+  - gdal
+  - gmt>=6.4
+  - grass>=8.2
+  - ghostscript
+  - curl
