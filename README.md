@@ -2,10 +2,6 @@
 
 **Python workflow for multi-criteria landslide susceptibility zonation: AHP weighting, raster reclassification, weighted linear combination and quantile classification, coupled with GRASS GIS, GDAL and GMT.**
 
-Istanbul Technical University, Institute of Earthquake Engineering and Disaster Management, Disaster and Emergency Management Department, İTÜ Ayazağa Maslak Kampüsü, 34469 İstanbul, Türkiye.
-
-Archived version: [Zenodo DOI]
-
 ## Algorithms
 
 - **Analytic Hierarchy Process (AHP):** priority vector from the principal eigenvector of a Saaty pairwise-comparison matrix; λmax, consistency index and consistency ratio; renormalisation of weights for factor subsets.
