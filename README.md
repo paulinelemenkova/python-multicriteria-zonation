@@ -97,7 +97,7 @@ Third-party data remain under the licences of their providers.
 
 ## Case study and citation
 
-The workflow was developed and applied in: Lemenkova P. & Zülfikar A.C., *Python-based landslide susceptibility zonation of Istanbul and Kocaeli along the North Anatolian Fault Zone (Türkiye)*. The scripts in `scripts/` reproduce Figs. 1–10 of that article; the study-area extents are set as parameters at the top of each script and can be changed for any other region.
+The workflow was developed and applied in: Lemenkova P., *Python-based landslide susceptibility zonation of Istanbul and Kocaeli along the North Anatolian Fault Zone (Türkiye)*. The scripts in `scripts/` reproduce Figs. 1–10 of that article; the study-area extents are set as parameters at the top of each script and can be changed for any other region.
 
 If you use this code, please cite the article and the archived software (see `CITATION.cff`).
 
